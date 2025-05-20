@@ -61,20 +61,35 @@ picpoint/
 
 ## 🖼️ Screenshots
 
-### 🔐 Login Page
+A glimpse of the PicPoint Photo Studio Management Web Application UI:
+
+---
+
+### 🔐 Login Page  
 ![Login Page](screenshots/login.png)
 
-### 🛍️ Store Page
+---
+
+### 🛍️ Store Page  
 ![Store Page](screenshots/store.png)
 
-### 🎉 Events Page
+---
+
+### 🎉 Events Page  
 ![Events Page](screenshots/events.png)
 
-### 📦 Packages Page
+---
+
+### 📦 Packages Page  
 ![Packages Page](screenshots/package.png)
 
-### 🖼️ Gallery Page.
+---
+
+### 🖼️ Gallery Page  
 ![Gallery Page](screenshots/gallery.png)
 
-### 📅 Booking Page
+---
+
+### 📅 Booking Page  
 ![Booking Page](screenshots/booking.png)
+

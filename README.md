@@ -66,7 +66,7 @@ A glimpse of the PicPoint Photo Studio Management Web Application UI:
 ---
 
 ### 🔐 Login Page  
-![Login Page](screenshots/login.png)
+![Login Page]("C:\xampp\htdocs\picpoint\screenshots\login.png.png")
 
 ---
 
